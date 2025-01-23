@@ -1,0 +1,144 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "Room 1",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Room 2",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Room 3",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Room 4",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Room 5",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Room 6",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Room 7",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Room 8",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Room 9",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Room 10",
+      "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "type": "text",
+          "sender": "John Doe",
+          "message": "I'm good, thanks. How about you?",
+          "time": "2:35 PM"
+        }
+      ]
+    }
+  ]
+}

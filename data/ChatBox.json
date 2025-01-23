@@ -1,0 +1,92 @@
+{
+  "result":
+  {
+    "id": 1,
+    "name": "Room 1",
+    "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+    "participants": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Jane Doe",
+        "profileImage": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "type": "text",
+        "isSender": true,
+        "message": "How are you?",
+        "time": "2:35 PM"
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "isSender": false,
+        "message": "I'm good, thanks. How about you?",
+        "time": "2:36 PM"
+      },
+      {
+        "id": 3,
+        "type": "text",
+        "isSender": true,
+        "message": "I'm good, thanks. Are you have my profile picture?",
+        "time": "2:38 PM"
+      },
+      {
+        "id": 4,
+        "type": "text",
+        "isSender": false,
+        "message": "Yes, here it is.",
+        "time": "2:45 PM"
+      },
+      {
+        "id": 5,
+        "type": "text",
+        "isSender": true,
+        "message": "Please, send me.",
+        "time": "2:55 PM"
+      },
+      {
+        "id": 6,
+        "type": "image",
+        "isSender": false,
+        "message": "https://res.cloudinary.com/ddpbwjjfz/image/upload/v1706756352/profile/dqfxsphjjtbfwt4v62gv.jpg",
+        "time": "3:15 PM"
+      },
+      {
+        "id": 7,
+        "type": "text",
+        "isSender": true,
+        "message": "Oh great, thanks.",
+        "time": "3:12 PM"
+      },
+      {
+        "id": 8,
+        "type": "text",
+        "isSender": true,
+        "message": "What about video?",
+        "time": "3:30 PM"
+      },
+      {
+        "id": 9,
+        "type": "video",
+        "isSender": false,
+        "message": "https://youtu.be/SAb4zRyxrD4?si=HhPi5p_vquKtjeGF",
+        "time": "4:43 PM"
+      },
+      {
+        "id": 9,
+        "type": "text",
+        "isSender": true,
+        "message": "Thank you very much my friend. I appreciate it.",
+        "time": "5:41 PM"
+      }
+    ]
+  }
+}

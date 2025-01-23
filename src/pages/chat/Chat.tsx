@@ -10,7 +10,7 @@ const Home: React.FC = () => {
   return (
     <>
       <Sidebar />
-      <div className="flex min-h-screen w-full">
+      <div className="flex ml-14 sm:ml-16">
         <ListChat />
         <ChatBox />
       </div>

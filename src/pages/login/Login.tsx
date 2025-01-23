@@ -23,7 +23,7 @@ const Login: React.FC = () => {
               Welcome Back 👋
             </h2>
           </div>
-          <div className='bg-green-200 border-2 border-green-400 rounded-2xl p-2'>
+          <div className='inline-flex items-center justify-center bg-green-200 border-2 border-green-400 rounded-2xl p-2'>
             <p className='font-sans text-sm sm:text-base text-center font-semibold text-green-700'>
               Sign in to your account using email <span className='font-bold'>jhon@example.com</span> and click Login
             </p>
